@@ -27,10 +27,10 @@ stellfi.me is more than just payments. It's a platform for:
 
 # Tech Stack:
 
-Frontend: Built with love using JavaScript
-Backend: Web3 technologies (Rust & Soroban SDK)
-Database: MongoDB
-Payments: Freighter
+1. Frontend: Built with love using JavaScript
+2. Backend: Web3 technologies (Rust & Soroban SDK)
+3. Database: MongoDB
+4. Payments: Freighter
 
 # Roadmap:
 
