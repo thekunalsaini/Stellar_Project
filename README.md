@@ -1,9 +1,9 @@
 
 
-## stellfi.me: The All-in-One Social Payment Platform
+## Stellfi.me: The All-in-One Social Payment Platform
 # Developer: Kunal Saini
 
-# Imagine: Linking your social media profiles, crypto wallets, and payment methods in one place. Sending payments to your favorite creators with a unique, secure link - that's the power of stellfi.me!
+Imagine: Linking your social media profiles, crypto wallets, and payment methods in one place. Sending payments to your favorite creators with a unique, secure link - that's the power of stellfi.me!
 
 # Introducing SocialFi:
 
@@ -21,9 +21,9 @@ Beyond Payments:
 
 stellfi.me is more than just payments. It's a platform for:
 
--- Personalized Profiles: Customize your profile with themes, banners, and colors. (Premium Feature)
--- Events & Organizations: Manage events and organizations with premium features. (Coming Soon)
--- Quests & Rewards: Earn rewards for completing tasks set by companies. (Coming Soon)
+1. Personalized Profiles: Customize your profile with themes, banners, and colors. (Premium Feature)
+2. Events & Organizations: Manage events and organizations with premium features. (Coming Soon)
+3. Quests & Rewards: Earn rewards for completing tasks set by companies. (Coming Soon)
 
 # Tech Stack:
 
@@ -34,14 +34,13 @@ Payments: Freighter
 
 # Roadmap:
 
-Community Building: We're actively seeking users on supported networks!
-Digital Passports: Premium users will receive NFTs as secure digital identities.
-Expanded Integrations: More social media and wallet support is on the way.
-Open Source: Stay tuned for open-source tooling and contribution opportunities.
-Full Release: Premium profiles, organization/event features, and more coming soon!
-Enhanced User Experience: Continuously improving illustrations, UX features, and marketing strategies.
-Web3 Engagement: Participating in web3 events and programs to grow the platform.
-Local Development:
+1. Community Building: We're actively seeking users on supported networks!
+2. Digital Passports: Premium users will receive NFTs as secure digital identities.
+3. Expanded Integrations: More social media and wallet support is on the way.
+4. Open Source: Stay tuned for open-source tooling and contribution opportunities.
+5. Full Release: Premium profiles, organization/event features, and more coming soon!
+6. Enhanced User Experience: Continuously improving illustrations, UX features, and marketing strategies.
+7. Web3 Engagement: Participating in web3 events and programs to grow the platform.
 
 # Clone the repository.
 Run npm install to install dependencies.
