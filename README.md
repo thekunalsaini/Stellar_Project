@@ -25,12 +25,20 @@ stellfi.me is more than just payments. It's a platform for:
 2. Events & Organizations: Manage events and organizations with premium features. (Coming Soon)
 3. Quests & Rewards: Earn rewards for completing tasks set by companies. (Coming Soon)
 
+# Deployment Details:
+Deployed on testnet & key is : CCIPQBMRNNUMCKOZYBXEDHIZGKW4TLAFHU4D3NFRZBG2XZ7AU3HOCL2S
+
 # Tech Stack:
 
 1. Frontend: Built with love using JavaScript
 2. Backend: Web3 technologies (Rust & Soroban SDK)
 3. Database: MongoDB
 4. Payments: Freighter
+
+
+![image](https://github.com/thekunalsaini/Stellar_Project/assets/43953836/331c43d5-3b37-4606-9582-af4bd87e2e2b)
+
+![image](https://github.com/thekunalsaini/Stellar_Project/assets/43953836/4a700ea2-49a9-43cb-a944-352e5959dbaa)
 
 # Roadmap:
 
