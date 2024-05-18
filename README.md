@@ -1,39 +1,53 @@
-## stellfi.me - SocialFi Digital Payment
-# Developer - Kunal Saini
-# Vision
-Link your socials, wallet addresses and payment methods all and do payments to your favourate ones in one place - stellfi.me
 
-# Description
-Link your socials, wallet addresses and payment methods all in one place - stellfi.me
 
-Cryptocurrency payment methods are often complex and not optimally used for casual payments. identity and payments are usually provided on a 'just in time' basis, as users generally have multiple accounts for both wallets and socials.
+## stellfi.me: The All-in-One Social Payment Platform
+# Developer: Kunal Saini
 
-# stellfi.me/kunal
+# Imagine: Linking your social media profiles, crypto wallets, and payment methods in one place. Sending payments to your favorite creators with a unique, secure link - that's the power of stellfi.me!
 
-# stellfi.me/steller
+# Introducing SocialFi:
 
-User can send payment to their favourate creator using their link and that link is unique like there aadhar  cards ;)
+# stellfi.me simplifies the world of SocialFi by:
 
-stellfi.me is a ‘SocialFi’ platform. Users can currently link their socials & wallet addresses, and personalize their profile with different themes, banners and colors. In a full release, We plan to develop stellfi.me profiles & feature for events & organizations as a premium service, as shown below for BNB chain-based DEX, stellfi.me/pancakeswap and also will add quest feature for companies for users where user add his wallet and complete quest and our automation system checks the task whether its completed or not :- tonfi.me/ton
+Centralized Hub: Manage all your socials, wallets, and payment methods effortlessly.
+Frictionless Payments: Say goodbye to complex crypto transactions! Send and receive payments with ease.
+Unique Identity: Your personal stellfi.me link acts as your secure, digital identity.
 
-# How we built it
-stellfi.me implementation loves JS with web3 techs (Rust and soroban sdk)
+# Get Started:
 
-A MongoDB is used to store the socials, wallets, & profiles.
+# Live Demo: Check out stellfi.me in action at [stellfi.me/kunal] and [stellfi.me/steller].
+Support Your Favorite Creators: Send payments directly to your favorite creators using their unique stellfi.me link.
+Beyond Payments:
 
-Since our app relies on an infrastructure of integrating social medias & crypto, we have used freighter for payments and storage system of soroban
+stellfi.me is more than just payments. It's a platform for:
 
-# Whats next for stellfi.me:
-Getting users on supported networks
-Give Digital Passport as NFT to premium users as identity (Proof of Identity)
-Adding new support for socials & wallets
-Open source tooling / contributions
-Full release, creating premium, organisation/event tailored profiles.
-Creating more illustrations, UX features
-Developing marketing & revenue strategies
-Participate in more web3 events & programs
+-- Personalized Profiles: Customize your profile with themes, banners, and colors. (Premium Feature)
+-- Events & Organizations: Manage events and organizations with premium features. (Coming Soon)
+-- Quests & Rewards: Earn rewards for completing tasks set by companies. (Coming Soon)
 
-# To run in local
-# npm install
-# npm run dev
-Project Name.
+# Tech Stack:
+
+Frontend: Built with love using JavaScript
+Backend: Web3 technologies (Rust & Soroban SDK)
+Database: MongoDB
+Payments: Freighter
+
+# Roadmap:
+
+Community Building: We're actively seeking users on supported networks!
+Digital Passports: Premium users will receive NFTs as secure digital identities.
+Expanded Integrations: More social media and wallet support is on the way.
+Open Source: Stay tuned for open-source tooling and contribution opportunities.
+Full Release: Premium profiles, organization/event features, and more coming soon!
+Enhanced User Experience: Continuously improving illustrations, UX features, and marketing strategies.
+Web3 Engagement: Participating in web3 events and programs to grow the platform.
+Local Development:
+
+# Clone the repository.
+Run npm install to install dependencies.
+Start the development server with npm run dev.
+Join the stellfi.me revolution!
+
+We're building a future of seamless social interactions and payments. Stay tuned for exciting updates and join us on this journey!
+
+Feel free to reach out with any questions or suggestions.
